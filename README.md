@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I'm Veronika Silina, Mobile developer based in Berlin.
+I'm Veronika, Mobile developer based in Berlin.
 
 ### About me
 
