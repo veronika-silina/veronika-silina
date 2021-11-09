@@ -1,16 +1,14 @@
 ### Hello world 👋
 
-I'm Veronika Silina, Full-stack developer based in Berlin.
+I'm Veronika Silina, Mobile developer based in Berlin.
 
 ### About me
 
 👩‍🎓 Recently completed 658-hour Full-stack Developer Course at [Tel-Ran Programming school](https://github.com/tel-ran-de).
 
-🌱 Working on my own projects using `Java`, `Spring Boot` and `Angular`.
+🌱 Working on my own projects using `C#`, `Xamarin`, `Java`, `Spring Boot` and `Angular`.
 
-⚡ Believing in a power of language as a programmer and linguist - my languages are Java, JavaScript as well as Russian, English, Czech.
-
-💻 Looking for a junior developer position and also open for an internship.
+⚡ Believing in a power of language as a programmer and linguist - my languages are Java, C#, JavaScript as well as Russian, English, Czech.
 
 ### How to reach me
 
